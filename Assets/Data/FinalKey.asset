@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2832e16549548b24ea27f6a388302371, type: 3}
+  m_Name: FinalKey
+  m_EditorClassIdentifier: 
+  <IsStackable>k__BackingField: 0
+  <MaxStackSize>k__BackingField: 1
+  <Name>k__BackingField: Final Key
+  <Description>k__BackingField: The key to your exit.
+  <ItemImage>k__BackingField: {fileID: -1708568209878282438, guid: f329d2fe74a16de4090a8174675f1888, type: 3}
+  <DefaultParametersList>k__BackingField: []
+  <actionSFX>k__BackingField: {fileID: 8300000, guid: 125d25c43852d7f4bb51684e83f1d842, type: 3}
+  finalKeyUseSFX: {fileID: 8300000, guid: 199d69fa609981d469276b1913cc22f5, type: 3}

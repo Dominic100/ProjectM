@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aeb54739579e48043a86236a004b80d5, type: 3}
+  m_Name: Flashbang
+  m_EditorClassIdentifier: 
+  <IsStackable>k__BackingField: 0
+  <MaxStackSize>k__BackingField: 1
+  <Name>k__BackingField: Flashbang
+  <Description>k__BackingField: Temporarily blinds the mosnter, making it unable
+    to move for 5 seconds.
+  <ItemImage>k__BackingField: {fileID: 1412285447518932832, guid: 9247a0d8121076d43a19cd2b5653fe00, type: 3}
+  <DefaultParametersList>k__BackingField:
+  - itemParameter: {fileID: 11400000, guid: ca6935b66d781224ebd7e9a70c64c103, type: 2}
+    value: 10
+  <actionSFX>k__BackingField: {fileID: 8300000, guid: 125d25c43852d7f4bb51684e83f1d842, type: 3}
+  stunRadius: 5
+  movementModifier: {fileID: 11400000, guid: e942d6b935fb00649ba3978dc3ab3d22, type: 2}
+  stunDuration: 5
+  flashbangSFX: {fileID: 8300000, guid: 34da4267d408990479f090e5a52019c0, type: 3}

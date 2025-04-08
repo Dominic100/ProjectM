@@ -1,0 +1,24 @@
+Flashbang [Sprites made]
+Stamina booster juice or something [Sprites made]
+Key (normal door keys and main escape door key) [Sprites made]
+Noise Maker object [Future]
+Map fragments?? [Future]
+Mall tokens [Future]
+Flashlight upgrades
+
+TO DO
+
+Item animations [Future]
+Sound design overall
+
+DONE
+Allow item unequipping. Maybe a keyboard button for that.
+Improve mouse aim
+Flashlight upgrades
+Hiding Spot + Monster Logic upgrade
+Monster chase logic (decision and implementation) (Psychological pressure, like fake footsteps) (Sound attraction)
+Monster tracking arrow when monster is close.
+Winter section
+2D Gravity switch section
+Game Menu
+

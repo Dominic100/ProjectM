@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f677e135fc21e94f85820c92ac6652d, type: 3}
+  m_Name: StaminaPotion
+  m_EditorClassIdentifier: 
+  <IsStackable>k__BackingField: 1
+  <MaxStackSize>k__BackingField: 3
+  <Name>k__BackingField: StaminaPotion
+  <Description>k__BackingField: Gives you infinite stamina for 10 seconds.
+  <ItemImage>k__BackingField: {fileID: 5495733730581676127, guid: 469f32a725122834789514f1376d6a74, type: 3}
+  <DefaultParametersList>k__BackingField: []
+  modifiersData:
+  - statModifier: {fileID: 11400000, guid: 3269da2627009d0438f3ab6a8e47eeab, type: 2}
+    value: 10
+  <actionSFX>k__BackingField: {fileID: 8300000, guid: f2a1d5468fa3b32498aeee0877f6893d, type: 3}
